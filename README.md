@@ -1,8 +1,6 @@
 # Hi, I’m Michelle Dowell! 👋  
 Welcome to my GitHub profile!
 
-🌱 **Currently learning** advanced React concepts and building complex UIs.
-
 ## 🔧 Tech Stack  
 **Languages**: JavaScript (ES6+), HTML5, CSS3  
 **Libraries/Frameworks**: React, React Hooks (useState, useEffect, useCallback), Firebase  
