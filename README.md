@@ -1,6 +1,9 @@
 # Hi, I’m Michelle Dowell! 👋  
 Welcome to my GitHub profile!
 
+## 🌱 I'm currently learning:
+Tailwind CSS
+
 ## 🔧 Tech Stack  
 **Languages**: JavaScript (ES6+), HTML5, CSS3  
 **Libraries/Frameworks**: React, React Hooks (useState, useEffect, useCallback), Firebase  
