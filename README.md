@@ -2,12 +2,12 @@
 Welcome to my GitHub profile!
 
 ## 🌱 I'm currently learning:
-Tailwind CSS
+Typescript
 
 ## 🔧 Tech Stack  
 **Languages**: JavaScript (ES6+), HTML5, CSS3  
-**Libraries/Frameworks**: React, React Hooks (useState, useEffect, useCallback), Firebase  
-**Tools**: Vite, Git, GitHub, VS Code, Figma  
+**Libraries/Frameworks**: React, React Hooks (useState, useEffect, useCallback), Tailwind CSS  
+**Tools**: Vite, Git, GitHub, VS Code, Figma, Firebase  
 **Deployment**: GitHub Pages, Netlify  
 
 ## 🌟 Key Projects  
