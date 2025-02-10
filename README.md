@@ -20,12 +20,17 @@ A customizable library of reusable React components, designed for scalability an
 ### 2. [Music Trivia Quiz](https://github.com/Mdowel/my-trivia-quiz)  
 A fun trivia game where users answer questions about music knowledge.  
 - **Tech stack**: React, API integration  
-- **Key features**: Dynamic question rendering, answer validation, and score tracking.  
+- **Key features**: Dynamic question rendering, answer validation, score tracking.  
 
 ### 3. [Vanlife Project](https://github.com/Mdowel/van-life)  
 A platform for finding the perfect van for your next adventure.  
 - **Tech stack**: React, CSS, Vite  
-- **Key features**: Filter and search functionality, responsive design.  
+- **Key features**: Filter and search functionality, responsive design.
+  
+### 4. [Hangman Project](https://github.com/Mdowel/hangman)  
+A classic Hangman game where players guess letters to reveal a word before running out of attempts.
+- **Tech stack**: React, TypeScript, CSS, Vite  
+- **Key features**: Keyboard support, intuitive UI, smart letter handling.  
 
 Check out my full list of projects [here](https://github.com/Mdowel?tab=repositories)!
 
