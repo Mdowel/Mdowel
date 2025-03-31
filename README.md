@@ -2,7 +2,7 @@
 Welcome to my GitHub profile!
 
 ## 🌱 I'm currently learning:
-Typescript
+Typescript and Svelte
 
 ## 🔧 Tech Stack  
 **Languages**: JavaScript (ES6+), HTML5, CSS3  
