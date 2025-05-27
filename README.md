@@ -2,10 +2,10 @@
 Welcome to my GitHub profile!
 
 ## 🌱 I'm currently learning:
-Typescript and Svelte
+Python
 
 ## 🔧 Tech Stack  
-**Languages**: JavaScript (ES6+), HTML5, CSS3  
+**Languages**: JavaScript (ES6+), HTML5, CSS3, TypeScript, SQL  
 **Libraries/Frameworks**: React, React Hooks (useState, useEffect, useCallback), Tailwind CSS  
 **Tools**: Vite, Git, GitHub, VS Code, Figma, Firebase  
 **Deployment**: GitHub Pages, Netlify  
